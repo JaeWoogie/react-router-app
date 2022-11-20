@@ -5,6 +5,7 @@ const ProductDetail = () => {
 
     return <section>
         <h1>ProductDetail</h1>
+        <p>{params.productId}</p>
     </section>
 }
 
